@@ -1,0 +1,20 @@
+.container  {
+   margin: 0  700px;
+   display: grid;
+   grid-template-columns: repeat(minmax(200px, auto));
+} 
+ 
+ ul {
+   list-style: none;
+   padding: 0 10px;
+ }
+
+ a {
+    text-decoration: none;
+    color:#0300a8;   
+ }
+
+ ol {
+   padding: 0 35px;
+   color:#000; 
+ }
